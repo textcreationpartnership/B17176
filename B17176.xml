@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers to the several reasons alledged in a printed paper, for affirming the judgment given in the Court of King's-Bench, in the case between Richard Brown plaint. and Ayliffe Waite defend. which is now depending by writ of error in Parliament</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17176</idno><idno type="EEBO-CITATION">99825859</idno>
+  <idno type="VID">206695</idno>
+  <idno type="EEBO-PROQUEST">2240859409</idno>
+  
+            <idno type="STC">Wing A3471F</idno>
+            <idno type="PROQUEST">99825859</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825859e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1804:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers to the several reasons alledged in a printed paper, for affirming the judgment given in the Court of King's-Bench, in the case between Richard Brown plaint. and Ayliffe Waite defend. which is now depending by writ of error in Parliament</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Identified as Wing A3468C on UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:206695:1"/>
+            <head>ANSWERS to the several Reasons alledged in a printed Paper, for affirming the Judgment given in the Court of King's-Bench, in the Case between <hi>Richard Brown</hi> Plaint and <hi>Ayliffe Waite</hi> Defend. which is now de<g ref="char:EOLhyphen"/>pending by Writ of Error in Parliament.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>I</label>
+               <hi>THE Act takes notice of Sir</hi> John Danvers<hi>'s Crime, which was High-Treason, and inten<g ref="char:EOLhyphen"/>ded to inflict the same Forfeiture as to his Estate, he having by Death avoided being At<g ref="char:EOLhyphen"/>tainted, as would have been had he been in Life and Attainted: and he is reputed by the Act as a Person Attaint.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> The intent of the Parliament is manifestly otherwise; for Sir <hi>John Danvers</hi> was par<g ref="char:EOLhyphen"/>doned by the Act of Indemnity, as to all <hi>Personal Punishments,</hi> and there is a <hi>particular</hi> Clause in that Act, which says, it shall be construed most beneficially for the Subject; and though his Lands, <hi>&amp;c.</hi> were reserved to further Forfeiture, yet the Estate Tail cannot be forfeited, unless you suppose him Attainted, which is a personal Punishment, and con<g ref="char:EOLhyphen"/>tradictory to the very Words and Design of this Statute; for there were several others involved in the same Crime, who <hi>were Attainted</hi> after their Deaths. Sir <hi>John Danvers not Attainted,</hi> by which it is plain, That the Parliament never intended an Equality of Punishment, but a Favour to the Posterity of Sir <hi>John Danvers.</hi> But a Construction ac<g ref="char:EOLhyphen"/>cording to the Objection, would put the Attainted and Unattainted into the same Cir<g ref="char:EOLhyphen"/>cumstances, and confound the Distinction made by the Statutes relating to this matter.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>II:</label>
+               <hi>The Words of the Act are as comprehensive as may be, and extend to forfeit all Lands, and all Estates, in them, by the comprehensive Words of</hi> Rights, Interests <hi>and</hi> Heredita<g ref="char:EOLhyphen"/>ments, <hi>which must extend to the</hi> inheritance <hi>in Lands, or to nothing, the Offender being dead.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> The Words are not sufficiently comprehensive, for <hi>Rights and Interests</hi> are mentioned only in opposition to <hi>Possessions,</hi> and to make the Right which Sir <hi>John Danvers</hi> had to any Estate, of which he was <hi>out of Possession,</hi> forfeitable to the Crown. And as to the word <hi>Hereditaments,</hi> that cannot include an Estate Tail, as will appear by the Construction of former Laws, particularly of the Statutes of <hi>Bankrupts:</hi> for though the Statute of 13 <hi>Eliz. chap.</hi> 7 made all the Lands and Hereditaments of the Bankrupt liable to be sold for the Payment of his Debts, yet an Estate Tail was never taken to be within that law; but the Statute 21 <hi>Jac. chap.</hi> 19. to supply that Defect, gave the Commissioners Authority to sell them by express Words, <hi>viz.</hi> by the Words <hi>Estates Tail:</hi> and if the word <hi>Heredita<g ref="char:EOLhyphen"/>ments</hi> could have given away an Estate Tail, there had been no need to have added the Words, <hi>Any Estate of Inheritance,</hi> in the Statute of 26 <hi>Hen.</hi> 8. which were the only Words that made Estates to be forfeitable for Treason, and were put in for that purpose.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>III</label>
+               <hi>Estates Tail were alienable by common Recoveries and Fines, and thereby the Perpetuity created by the Statute of</hi> Westminster 2. de Donis conditionalibus, <hi>liable to be broken, are forfeita<g ref="char:EOLhyphen"/>ble; a Forfeiture being in nature of Alienation by the general Words of an Act of Parliament, as appears from the Statute of</hi> 26 Hen. 8 <hi>by which Act Estates Tail are forfeitable for Treason, under the general Words of</hi> Estates of Inheritance: <hi>and by the same Reason the Words</hi> Rights, Interests and Hereditaments, <hi>in the Act of Pains and Penalties, which is agreed to extend to carry an Estate in Fee Simple, shall as well extend to an Estate Tail: and it may be as well denied, that an Estate in Fee Simple as in Fee Tail, is forfeited by this Act, the Words being no more ex<g ref="char:EOLhyphen"/>pressive of one Estate than the other.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> Though Estates Tail are weakned since the Statute of <hi>Westminster</hi> 2. <hi>de Donis,</hi> by sub<g ref="char:EOLhyphen"/>sequent Laws; yet as to this purpose the Statute <hi>Westminster</hi> 2. continues in its primitive Force and Vigour. And though by the Statute 4 <hi>Hen.</hi> 7. Tenant in Tail is enabled to bar his Issue by a Fine, yet he cannot do it by a Feoffment, because as to that particular Con<g ref="char:EOLhyphen"/>veyance the Estate Tail is yet within the Protection of the Statute of <hi>West.</hi> 2. So though the Statute 26 <hi>Hen.</hi> 8. gives the Estate of Tenant in Tail, attainted of Treason to the Crown, by the plain Words of <hi>any Estate of Inheritance;</hi> it cannot thence be concluded, that the Act of Pains and Penalties shall give an Estate Tail, without using those Words, or any of the same import, <hi>And without any Attainder.</hi>
+            </p>
+            <p>And these words, <hi>any Estate of Inheritance,</hi> are not <hi>general Words,</hi> as is alledged, but pro<g ref="char:EOLhyphen"/>perly expressive of an Estate Tail, because an Estate Tail is an Estate of Inheritance. But the words, <hi>Rights, Interests</hi> and <hi>Hereditaments,</hi> only explain the <hi>Things</hi> design'd to be forfeited, but mention not <hi>what Estate</hi> in those things shall be forfeited, but leave that to the Construction of Law, which has always resolved that such general Words for this rea<g ref="char:EOLhyphen"/>son, shall not extend to an Estate Tail.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>IV</label>
+               <hi>The Act intended the Offenders Estates should not be enjoyed by their Children; for in the gene<g ref="char:EOLhyphen"/>ral Saving there is an exception of the Wife, Child, or Children of the Offender.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> This <hi>Saving</hi> extends not to this Case, for that was to save Estate, that would have been forfeited if no Conveyance had been made, but the Estate Tail would not have been forfeited, because that stands still protected by the Statute <hi>de Do<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
